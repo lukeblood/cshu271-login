@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+
+# Generated files (uncomment lines below to ignore output files)
+# bin/
+
+# Log files
+*.log
+
+# IntelliJ (may be added)
+
+# Eclipse (may be added)
+
+# MacOS files
+.DS_Store
